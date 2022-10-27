@@ -1,0 +1,25 @@
+<resources>
+    #legacy
+    <string name="app_name">Labs</string>
+    <string name="welcome">Welcome</string>
+    <string name="email_or_phone">Email or phone</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me</string>
+    <string name="forgot">forgot your password</string>
+    <string name="sign_in">no account</string>
+    <string name="enter">continue</string>
+
+    #new
+    <string name="ET_full_name">Full name</string>
+    <string name="ET_Email">Email</string>
+    <string name="ET_Password">Password</string>
+    <string name="BTN_register">Register</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
